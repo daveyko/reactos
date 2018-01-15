@@ -1,6 +1,6 @@
 class: center middle
 ## Priority Queue
-
+d
 ---
 
 ## Definitions
